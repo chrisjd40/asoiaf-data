@@ -788,8 +788,7 @@
                         "effect": [
                             "**Influence ***(When this unit Claims a zone, attach this card to a Combat Unit until the end of the Round):*",
                             "Each time Asha Influences a unit, remove 1 Condition token from them.",
-                            "While Influencing a friendly unit, ",
-                            "that unit gains +1 to Morale Test rolls for each Pillage token on it. Each time that unit passes a Morale Test, target 1 enemy it is engaged with. That enemy suffers 1 Hit for each Pillage token on this unit."
+                            "While Influencing a friendly unit, that unit gains +1 to Morale Test rolls for each Pillage token on it. Each time that unit passes a Morale Test, target 1 enemy it is engaged with. That enemy suffers 1 Hit for each Pillage token on this unit."
                         ]
                     }
                 ]
@@ -2311,6 +2310,25 @@
                 "commander_id": "20821",
                 "commander_name": "Dagmer Cleftjaw",
                 "commander_subname": "Master-at-Arms"
+            }
+        }
+    ],
+    "specials": [
+        {
+            "name": "Raiders of the Iron Islands",
+            "id": "50801",
+            "statistics": {
+                "faction": "greyjoy",
+                "version": "2021-S03",
+                "front": {
+                    "ratio": 0.3,
+                    "crests": 2,
+                    "style": "small-margin",
+                    "text": [
+                        "[SKILL:Pillage]\nEach time a House Greyjoy unit destroys an enemy rank with a Melee Attack, it gains 1 Pillage token. A unit may have up to 2 Pillage tokens at any time.",
+                        "That unit gains the following based on the number of Pillage tokens *(effects are cumulative)*:\n• **1+:** +1 to Morale Test rolls.\n• **2:** +1 Attack Die."
+                    ]
+                }
             }
         }
     ]
