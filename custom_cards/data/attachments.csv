@@ -1,12 +1,12 @@
-Faction;Name;Character;Cost;Type;Abilities;Requirements;Boxes;Id;Version;Requirement Text;Quote
-Brotherhood without Banners;Hot Pie, The Baker;Hot Pie;1;Infantry;Hot Pies!;;;200000;S05;;
-Brotherhood without Banners;Anguy, The Archer;Angry;2;Infantry;Order: Swift Retreat / Outflank;;;200001;S05;;
-Brotherhood without Banners;Edric Dayne, Loyal Squire;Edric Dayne;1;Infantry;Berric's Vassal / Regroup;;;200002;S05;Edric Dayne may be included in a unit containing Thoros of Myr, ignoring the usual attachment restrictions.;I'm only twelve.
-Brotherhood without Banners;Lem Lemoncloak, The Lemon;Lem Lemoncloak;1;Infantry;Battle Scars;;;200003;S05;;
-Brotherhood without Banners;Beric Dondarrion, Azor Ahai;Beric Dondarrion;2;Infantry;Lightbringer;;;200004;S05;;
-Brotherhood without Banners;Thoros of Myr, Faithful Believer;Thoros of Myr;2;Infantry;Reinforcements / Relentless;;;200005;S05;;
-Brotherhood without Banners;Tom Sevenstrings, O'Sevens;Tom Sevenstrings;1;Infantry;Order: Taunt;;;200006;S05;;
-Brotherhood without Banners;Beric Dondarrion, Lightning Lord;Beric Dondarrion;C;Infantry;Order: Sentinel / Duty To The Crown / Pathfinder;;;200007;S05;;
-Brotherhood without Banners;Thoros of Myr, The Red Wizard;Thoros of Myr;C;Infantry;Prayers To R'hllor;;;200008;S05;;
-Brotherhood without Banners;Catelyn Stark;Lady Stoneheart;C;Infantry;Horrific Visage / Intimidating Presence;Not: ‘Beric Dondarrion';;200009;S05;;
-Brotherhood without Banners;Gendry, The Bull;Gendry;2;Infantry;Order: Resilience / Improved Defenses (Brotherhood Without Banners);;;200010;S05;;
+Faction,Name,Character,Cost,Type,Abilities,Requirements,Boxes,Id,Version,Requirement Text,Quote
+Brotherhood without Banners,"Hot Pie, The Baker",Hot Pie,1,Infantry,Hot Pies!,,,200000,S05,,
+Brotherhood without Banners,"Anguy, The Archer",Angry,2,Infantry,Order: Swift Retreat / Outflank,,,200001,S05,,
+Brotherhood without Banners,"Edric Dayne, Loyal Squire",Edric Dayne,1,Infantry,Berric's Vassal / Regroup,,,200002,S05,"Edric Dayne may be included in a unit containing Thoros of Myr, ignoring the usual attachment restrictions.",I'm only twelve.
+Brotherhood without Banners,"Lem Lemoncloak, The Lemon",Lem Lemoncloak,1,Infantry,Battle Scars,,,200003,S05,,
+Brotherhood without Banners,"Beric Dondarrion, Azor Ahai",Beric Dondarrion,2,Infantry,Lightbringer,,,200004,S05,,
+Brotherhood without Banners,"Thoros of Myr, Faithful Believer",Thoros of Myr,2,Infantry,Reinforcements / Relentless,,,200005,S05,,
+Brotherhood without Banners,"Tom Sevenstrings, O'Sevens",Tom Sevenstrings,1,Infantry,Order: Taunt,,,200006,S05,,
+Brotherhood without Banners,"Beric Dondarrion, Lightning Lord",Beric Dondarrion,C,Infantry,Order: Sentinel / Duty To The Crown / Pathfinder,,,200007,S05,,
+Brotherhood without Banners,"Thoros of Myr, The Red Wizard",Thoros of Myr,C,Infantry,Prayers To R'hllor,,,200008,S05,,
+Brotherhood without Banners,"Catelyn Stark, Lady Stoneheart",Catelyn Stark,C,Infantry,Horrific Visage / Intimidating Presence,Not: ‘Beric Dondarrion',,200009,S05,,
+Brotherhood without Banners,"Gendry, The Bull",Gendry,2,Infantry,Order: Resilience / Improved Defenses (Brotherhood Without Banners),,,200010,S05,,

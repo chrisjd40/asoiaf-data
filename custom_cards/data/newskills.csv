@@ -1,20 +1,20 @@
-Name;Description;Icons;Version
-Hot Pies!;"Each time this unit Activates, it removes 1 Condition Token.
-If you Control [CROWN], this unit may restore 1 Wound.";;
-Lightbringer;"Berric's unit begins the game with 1 Faith Token. Each time Berric's unit passes a Morale Test, it gains 1 **Faith Token**. Faith tokens may be expended to do the following:
+Name,Description,Icons,Version
+Hot Pies!,"Each time this unit Activates, it removes 1 Condition Token.
+If you Control [CROWN], this unit may restore 1 Wound.",,
+Lightbringer,"Berric's unit begins the game with 1 Faith Token. Each time Berric's unit passes a Morale Test, it gains 1 **Faith Token**. Faith tokens may be expended to do the following:
 • **When this unit performs a Melee Attack, before resolving that Attack:** This Attack gains +2 Attack Dice.
-• **When this unit would be destroyed by a Melee Attack:** Before being removed, this unit performs 1 Melee Attack using its lowest Attack Die Value. If this Attack destroys the Defender, this unit is not destroyed but remains in play with 1 Wound.";Fire;
-Prayers To R'hllor;"This unit gains +2 to Morale Test rolls and begins the game with 1 **Faith token.** Each time it passes a Morale Test, it gains 1 Faith token. **Faith tokens** may be expended to do the following:
+• **When this unit would be destroyed by a Melee Attack:** Before being removed, this unit performs 1 Melee Attack using its lowest Attack Die Value. If this Attack destroys the Defender, this unit is not destroyed but remains in play with 1 Wound.",Fire,
+Prayers To R'hllor,"This unit gains +2 to Morale Test rolls and begins the game with 1 **Faith token.** Each time it passes a Morale Test, it gains 1 Faith token. **Faith tokens** may be expended to do the following:
 • **When this unit performs a Melee Attack, before resolving that Attack:** This Attack gains **Sundering** and **Vicious**
-• **When an enemy in Long Range fails a Panic Test:** Target 1 friendly unit in Long range of this unit. For each Wound the enemy suffered from this test, restore 1 Wound to that friendly unit, up to 3.";Fire;
-Brotherhood Armaments;"• **Critical Blow**
-• If your opponent does not Control [CROWN], this attack gains +1 to Hit and **Sundering**";M;
-Knightly Armaments;"• **Sundering**
-• If your opponent does not Control [CROWN], this Attack may re-roll any Attack Dice.";M;
-Rally The Smallfolk;After this unit completes a Melee Attack, if this Attack destroyed an enemy rank, target 1 friendly Infantry unit in Long Range. They restore 2 Wounds.;;
-Order: Deceitful Reposition;"**At the start of an enemy Turn, if no enemies are within Short Range:**
-This unit performs a 3 Maneuver Action.";;
-Hidden Shot;"• Ignores units and terrain when determining Line of Sight
-• When Attacking enemies in the Flank or Rear, this Attack gains **Precision** and **Vicious**";R;
-Improved Defenses (Brotherhood Without Banners);While you Control [CROWN], this unit gains +1 to Defense Dice Rolls.;;
-Berric's Vassal;This model counts as Berric Dondarrion for all abilities and effects.;W;
+• **When an enemy in Long Range fails a Panic Test:** Target 1 friendly unit in Long range of this unit. For each Wound the enemy suffered from this test, restore 1 Wound to that friendly unit, up to 3.",Fire,
+Brotherhood Armaments,"• **Critical Blow**
+• If your opponent does not Control [CROWN], this attack gains +1 to Hit and **Sundering**",M,
+Knightly Armaments,"• **Sundering**
+• If your opponent does not Control [CROWN], this Attack may re-roll any Attack Dice.",M,
+Rally The Smallfolk,"After this unit completes a Melee Attack, if this Attack destroyed an enemy rank, target 1 friendly Infantry unit in Long Range. They restore 2 Wounds.",,
+Order: Deceitful Reposition,"**At the start of an enemy Turn, if no enemies are within Short Range:**
+This unit performs a 3 Maneuver Action.",,
+Hidden Shot,"• Ignores units and terrain when determining Line of Sight
+• When Attacking enemies in the Flank or Rear, this Attack gains **Precision** and **Vicious**",R,
+Improved Defenses (Brotherhood Without Banners),"While you Control [CROWN], this unit gains +1 to Defense Dice Rolls.",,
+Berric's Vassal,This model counts as Berric Dondarrion for all abilities and effects.,W,
