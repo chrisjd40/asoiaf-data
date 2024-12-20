@@ -1,0 +1,15 @@
+Faction;Name;Character;Cost;Names;Descriptions;Requirements;Boxes;Id;Version;Quote;Restrictions
+Brotherhood Without Banners;Thoros of Myr, The Ember;Thoros of Myr;4;Fresh Converts;"Each time a rank in an enemy Combat Unit is destroyed, place 1 Order token on Thoros.
+Each time Thoros Claims a zone, you may replace that zone's effect with:
+
+*Restore up to 2 Wounds to 1 friendly Combat Unit. Then, you may remove up to 2 Order tokens from Thoros.*
+*If you do, for each token removed, restore 1 Wound to 1 Friendly Combat Unit.*";;;400000;S05;;
+Brotherhood Without Banners;Catelyn Stark, The Hangwoman;Catelyn Stark;4;Vengeance at Any Cost;"**Influence** *(When this unit Claims a Tactics Zone, attach this card to a Combat Unit until the end of the Round)*: 
+While Influencing an enemy Combat Unit, each time this unit performs an Action, before resolving that Action, this unit suffers 1 Wound.
+Friendly Combat Units may re-roll any Attack Dice when performing Melee Attacks against this unit.";Not: ‘Berric Dondarrion';;400001;S05;…she rose. May the Lord of Light protect us. She rose. -Thoros of Myr;*May not be fielded in an army Berric Dondarrion.*
+Brotherhood Without Banners;Ravella Smallwood, Lady of Acorn Hall;Ravella Smallwood;4;Allies in The Realm;"Ravella begins the game with 3 Order tokens on her.At the start of a friendly Turn, you may discard 1 Order token from Ravella and 1 Tactics card.
+If you do, restore 2 Wounds to 1 friendly Combat Unit.
+If that unit has only 1 remaining rank, also remove 1 Condition token from them.";;;400002;S05;;
+Brotherhood Without Banners;Ghost of High Heart, The Wood's Witch;Ghost of High Heart;5;Prophecies And Portents;"**Influence** *(When this unit Claims a Tactics Zone, attach this card to a Combat Unit until the end of the Round)*: 
+While Influencing a unit, that unit gains +1 to Morale Test rolls.
+Each time a rank in that unit is destroyed, 1 enemy they are engage with becomes  **Vulnerable** and  **Weakened**";;;400003;S05;;

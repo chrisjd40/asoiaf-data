@@ -1,0 +1,5 @@
+Faction;Name;Character;Cost;Type;Spd;Attack 1;;;Attack 2;;;Def;Moral;Abilities;Requirements;Boxes;Id;Version;Requirement Text;Quote;Lore
+Brotherhood Without Banners;Men-At-Arms;;6;Infantry;5;[M]Brotherhood Armaments;4;7.6.4;;;;4;6;Ambush / Brotherhood Armaments;;;100000;S05;;;
+Brotherhood Without Banners;Brotherhood Sworn Knights;;8;Cavalry;5;[M]Knightly Armaments;3;7.5;;;;3;5;Cavalry / Knightly Armaments / Rally The Smallfolk;;;100001;S05;;;
+Brotherhood Without Banners;Brotherhood Archers;;6;Infantry;6;[R]Hidden Shot;3;7.6.4;;;;6;6;Order: Deceitful Reposition / Hidden Shot;;;100002;S05;;;
+Brotherhood Without Banners;Peasant Levy;;4;Infantry;5;;5;6.4.3;;;;6;6;Disrupt / Gang-up;;;100003;S05;;;
